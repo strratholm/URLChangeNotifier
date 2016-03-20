@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="URLChangeNotifier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/URLChangeNotifier_jar</output-path>
+    <root id="archive" name="URLChangeNotifier.jar">
+      <element id="module-output" name="URLChangeNotifier" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javax.mail.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
